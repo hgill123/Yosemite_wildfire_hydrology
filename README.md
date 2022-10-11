@@ -1,4 +1,4 @@
-# Yosemite_wildfire_hydrology
+# Impact of Wildfires on Yosemite Hydrology
 
 ## Summary
 This repository houses the code for my Capstone Project for Yale's Energy Studies Program. This 
